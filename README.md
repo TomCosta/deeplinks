@@ -1,5 +1,5 @@
 
-# Ionic +4 DeepLinks Social Sharing App
+# Ionic +4 DeepLinks & Social Sharing App
 
 ![Homic](./src/assets/imgs/deeplinks.png)
 
