@@ -5,7 +5,7 @@
 
 ![version][version-badge] ![Idioma][idioma] ![status][status-emprogresso]
 
-Aplicativo desenvolvido para testar o funcionamento e uso dos plugins [Deeplinks](https://ionicframework.com/docs/native/deeplinks) e [Social Sharing](https://ionicframework.com/docs/native/social-sharing).
+## Aplicativo desenvolvido para testar o funcionamento e uso dos plugins [Deeplinks](https://ionicframework.com/docs/native/deeplinks) e [Social Sharing](https://ionicframework.com/docs/native/social-sharing).
 
 ### Compartilhe o link de um item ou produto usando o aplicativo e depois clique no link e abra o seu aplicativo (launch) na página especificada pelo link com o item ou produto desejado.
 
