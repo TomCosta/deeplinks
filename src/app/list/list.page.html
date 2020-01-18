@@ -3,25 +3,21 @@
     <ion-buttons slot="start">
       <ion-menu-button></ion-menu-button>
     </ion-buttons>
-    <ion-title>
-      List
+    <ion-title color="tertiary">
+      Landing Page
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
-<ion-content>
-  <ion-list>
-    <ion-item *ngFor="let item of items">
-      <ion-icon [name]="item.icon" slot="start"></ion-icon>
-      {{item.title}}
-      <div class="item-note" slot="end">
-        {{item.note}}
-      </div>
-    </ion-item>
-  </ion-list>
-  <!--
-    <div *ngIf="selectedItem" padding>
-      You navigated here from <b>{{selectedItem.title }}</b>
-    </div>
-  -->
+<ion-content padding>
+
+  <div padding-top>
+    <img src="assets/imgs/sharing-icon.png" />
+  </div>
+
+  <div text-center padding>
+    <h1 class="ternCor">Código recebido:</h1>
+    <h1>{{code}}</h1>
+  </div>
+
 </ion-content>
