@@ -9,7 +9,7 @@
 
 ### Compartilhe o link de um item ou produto usando o aplicativo e depois clique no link e abra o seu aplicativo (launch) na página especificada pelo link com o item ou produto desejado.
 
-Neste tempelate você será capaz de capturar qualquer código no formato de string passado por parâmetro para o seu aplicativo e abrir o app na página desejada.
+Neste template você será capaz de capturar qualquer código no formato de string passado por parâmetro para o seu aplicativo e abrir o app na página desejada. Se gostou, deixa a sua estrela.
 
 ### $ Ionic info:
 ```javascript
@@ -51,6 +51,8 @@ $ npm install @ionic-native/social-sharing
 ### ------------------------------------------------------------------
 
 ### Below follows the example to use this code to build this app, if you already have the Ionic installed in your environment.
+
+If you enjoy it, give us a star.
 
 ## How to start to use this template
 #### Clone the repo
