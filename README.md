@@ -13,14 +13,14 @@ Neste template você será capaz de capturar qualquer código no formato de stri
 
 ### $ Ionic info:
 ```javascript
-Ionic CLI                       5.4.14
-Ionic Framework @ionic/angular  4.11.8
-Cordova CLI (cordova-lib@9.0.1) 9.0.0
-Cordova Platforms android       8.1.0
-Android SDK Tools               26.1.1
-ios-deploy                      1.9.4 
-NodeJS                          12.11.1
-npm                             6.11.3 
+Ionic CLI:                       '5.4.14'
+Ionic Framework @ionic/angular:  '4.11.8'
+Cordova CLI (cordova-lib@9.0.1): '9.0.0'
+Cordova Platforms android:       '8.1.0'
+Android SDK Tools:               '26.1.1'
+ios-deploy:                      '1.9.4'
+NodeJS:                          '12.11.1'
+npm:                             '6.11.3'
 ```
 
 ### Para rodar este aplicativo é necessário
